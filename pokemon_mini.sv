@@ -211,7 +211,7 @@ assign VIDEO_ARY = (!ar) ? 12'd3 : 12'd0;
 
 `include "build_id.v"
 localparam CONF_STR = {
-    "PokemonMini;;",
+    "pokemon_mini;;",
     "-;",
     "FS1,min,Load ROM;",
     "-;",
